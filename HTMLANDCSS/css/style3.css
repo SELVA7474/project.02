@@ -1,0 +1,50 @@
+body{
+    background: url("/image/bg6.jpg");
+    font-family:cursive;
+}
+.rigform{
+   max-width:400px;
+   padding:10px 20px 30px;
+   margin:150px auto auto ;
+   background-color: rgba(0,0,0,.5);
+   color:rgb(54, 26, 82);
+   font-size:20px;
+   border-radius:10px;
+}
+.rigform h3{
+    text-align: center;
+    color:rgb(5, 18, 63);
+
+}
+.rigform .text{
+    display:block;
+
+}
+.input input{
+    width:100;
+    font-size:1.5em;
+    border:1px solid #041d24;
+    box-shadow: 2px;
+    border-radius:10px;
+    padding:5px 10px;
+    box-sizing:border-box;
+    margin:4px 0px 15px;
+}
+input:focus{
+    background-color: rgb(92, 96, 105);
+}
+.btn{
+    text-align:center
+}
+button{
+    background-color:#2290ac67;
+    font-size:20px;
+    color:rgb(54, 26, 82);
+    border:1px solid black;
+    margin-top:20px;
+    padding:5px 10px;
+    box-shadow:3px;
+}
+.rem input{
+    accent-color:rgb(129, 129, 143);
+}

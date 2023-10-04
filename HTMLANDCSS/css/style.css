@@ -1,0 +1,41 @@
+h1{
+    color:rgb(5, 2, 14);
+    background-color:rgb(235, 178, 178);
+    font-family:cursive;
+    font-weight:600;
+    letter-spacing: 0.45cm;
+    text-align:right ;
+    text-shadow:2px 5px 2px gray ;
+}
+h3{
+    color:rgb(82, 83, 16);
+    font-family:fantasy;
+    font-stretch:expanded
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:15px ;
+    margin:15px
+    
+}
+a{
+    text-decoration: none;
+
+}
+a:link{
+    color:brown;
+}
+a:visited{
+    color:blueviolet;
+}
+a:hover{
+    color:aqua;
+
+}
+a:active{
+    color:blue;
+}
+.border{
+    border:1px solid blueviolet;
+    display:inline
+}
